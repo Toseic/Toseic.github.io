@@ -1,3 +1,6 @@
+---
+title: Toseic's website
+---
 ##### WELCOME!!!
 welcome to Toseic's website.
 ##### AI-game
