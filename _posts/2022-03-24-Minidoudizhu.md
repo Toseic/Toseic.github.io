@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI game"
+title: "Mini斗地主"
 author: "Toseic"
 tags: game
 excerpt_separator: <!--more-->
