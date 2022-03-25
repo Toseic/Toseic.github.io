@@ -5,6 +5,6 @@ author: "Toseic"
 permalink: /about/
 ---
 
-###### *Toseic's blog websitd*
+###### *Toseic's blog website*
 
 Thanks for reading!
