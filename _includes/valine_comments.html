@@ -1,6 +1,6 @@
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-<div id="comment"></div>
+<div id="comment"><h3>Discussion and feedback</h3></div>
 <script>
     var valine = new Valine();
     valine.init({
@@ -9,6 +9,7 @@
         appKey:'aHe6A1vXiwn7Sb7AI0YdhHzf',
         notify:true,
         path: '{{ page.url }}',
-        placeholder:'Say something~'
+        placeholder:'Say something~',
+        avator:'wavatar'
     })
 </script>
