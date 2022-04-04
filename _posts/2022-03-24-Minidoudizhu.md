@@ -3,6 +3,7 @@ layout: post
 title: "Mini斗地主"
 author: "Toseic"
 tags: game
+comments: true
 excerpt_separator: <!--more-->
 ---
 #### 迷你斗地主
