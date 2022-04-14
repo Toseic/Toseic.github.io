@@ -6,9 +6,8 @@ tags: game
 comments: true
 excerpt_separator: <!--more-->
 ---
-#### 迷你斗地主
 
-[Github](https://github.com/Toseic/Mini-doudizhu)(*仓库暂未开放访问*)
+[Github仓库](https://github.com/Toseic/Mini-doudizhu)
 
 ## 迷你斗地主游戏AI实验报告
 
