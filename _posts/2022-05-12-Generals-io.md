@@ -2,7 +2,7 @@
 layout: post
 title: "Generals.io 对局数据爬取脚本"
 author: "Toseic"
-tags: AI game
+tags: crawl game
 comments: true
 excerpt_separator: <!--more-->
 ---
