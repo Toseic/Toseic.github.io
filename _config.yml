@@ -36,7 +36,7 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 # TimeZone
-timezone: +800 
+timezone: Asia/Shanghai 
 
 # Disqus (Set to your disqus id)
 # disqus:         https-toseic-github-io
