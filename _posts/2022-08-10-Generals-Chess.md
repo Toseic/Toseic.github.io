@@ -6,7 +6,6 @@ tags: game botzone
 comments: true
 excerpt_separator: <!--more-->
 ---
-# Generals-Chess 
 
 将军棋（Generals-chess）是[botzone](https://www.botzone.org.cn/)上面的双人游戏<!--more-->
 
