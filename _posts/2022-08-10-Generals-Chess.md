@@ -5,7 +5,7 @@ author: "Toseic"
 tags: game botzone
 comments: true
 excerpt_separator: <!--more-->
-header-img: https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_im.jpeg
+
 ---
 
 将军棋（Generals-chess）是[botzone](https://www.botzone.org.cn/)上面的双人游戏<!--more-->
