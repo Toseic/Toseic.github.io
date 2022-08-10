@@ -15,7 +15,8 @@ $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
 // $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
 $sans-serif: Georgia, "Times New Roman", PMingLiu, STSong, SimSun, "WenQuanYi Bitmap Song", "Noto Serif CJK", serif !default;
-$monospaced: Menlo, Monaco, monospace !default;
+// $monospaced: Menlo, Monaco, monospace !default;
+$monospaced: JetBrainsMono, "Source Code Pro", Monaco, Menlo, Consolas, "Courier New", Courier, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
