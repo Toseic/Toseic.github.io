@@ -7,7 +7,7 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-[Github仓库](https://github.com/Toseic/GB-Mahjong) *暂未开放*
+[Github仓库](https://github.com/Toseic/GB-Mahjong) 
 ## 国标麻将概述<!--more-->
 
 ### 游戏概述
