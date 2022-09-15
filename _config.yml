@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Bug's home
 email:
-description:
+description: "Bug creater's house"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
+url: "https://toseic.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author: 
+  name: Toseic
   twitter:
-  picture:
+  picture: /assets/images/head.jpg
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+github_username: Toseic
+logo: /assets/icons/basically-basic-logo-light.svg
+search: true # true, false (default)
 search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -44,36 +44,25 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  
 feed:
   path: atom.xml
 
+words_per_minute: 350
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 6
 paginate_path: /page:num/
 
 # Exclude from processing.
 exclude:
   - .asset-cache
   - .bundle
-  - .codeclimate.yml
-  - .editorconfig
-  - .gitattributes
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .scss-lint.yml
   - CHANGELOG
   - Gemfile
-  - Gemfile.lock
   - LICENSE
-  - node_modules
   - Rakefile
   - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
+
 
 # Front Matter Defaults
 defaults:

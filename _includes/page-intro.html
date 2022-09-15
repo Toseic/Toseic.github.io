@@ -33,6 +33,15 @@
           {% endfor %}
         </ul>
       {% endif %}
+
+      <!-- diy by toseic -->
+      {% if page.audio %}
+      <audio controls>
+        <source src="{{ page.audio }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      {% endif %}
+      <!-- diy by toseic -->
     </div>
   </div>
 </header>

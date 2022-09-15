@@ -11,10 +11,10 @@ t:
   search: "Search"
   site_search: "Site Search"
   results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
+  search_placeholder_text: "Enter here..."
   home: "Home"
-  newer: "Newer"
-  older: "Older"
+  newer: "Next"
+  older: "last"
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
@@ -38,6 +38,7 @@ t:
   cv_skills: "Skills"
   cv_volunteer: "Volunteer"
   cv_work: "Work"
+  
 
 # Google Fonts
 google_fonts:
@@ -49,5 +50,8 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - posts.md
+  - tags.md
   - about.md
-  - cv.md
+  
+  
