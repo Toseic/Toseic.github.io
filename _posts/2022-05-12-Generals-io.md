@@ -5,6 +5,10 @@ author: "Toseic"
 tags: crawl game
 comments: true
 excerpt_separator: <!--more-->
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/Generals.io_crawl"
 ---
 
 *请注意，在使用时请控制访问频率，避免影响服务器的正常工作* <!--more-->

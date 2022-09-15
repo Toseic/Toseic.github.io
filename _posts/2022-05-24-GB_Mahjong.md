@@ -5,9 +5,12 @@ author: "Toseic"
 tags: AI game
 comments: true
 excerpt_separator: <!--more-->
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/GB-Mahjong"
 ---
 
-[Github仓库](https://github.com/Toseic/GB-Mahjong) 
 ## 国标麻将概述<!--more-->
 
 ### 游戏概述

@@ -5,9 +5,13 @@ author: "Toseic"
 tags: AI game
 comments: true
 excerpt_separator: <!--more-->
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/Magic-generals"
 ---
 
-[Github仓库](https://github.com/Toseic/Magic-generals) 
+
 ## 游戏介绍 
 
 

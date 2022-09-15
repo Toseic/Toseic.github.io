@@ -5,7 +5,10 @@ author: "Toseic"
 tags: game botzone
 comments: true
 excerpt_separator: <!--more-->
-
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/Generals-chess"
 ---
 
 将军棋（Generals-chess）是[botzone](https://www.botzone.org.cn/)上面的双人游戏<!--more-->

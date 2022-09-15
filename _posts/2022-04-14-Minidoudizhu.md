@@ -5,9 +5,11 @@ author: "Toseic"
 tags: game
 comments: true
 excerpt_separator: <!--more-->
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/Mini-doudizhu"
 ---
-
-[Github仓库](https://github.com/Toseic/Mini-doudizhu)
 
 ## 迷你斗地主游戏AI实验报告
 

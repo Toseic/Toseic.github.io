@@ -7,10 +7,10 @@ image: /assets/images/title.png
 introduction: |
   welcome !
 actions:
-  - label: "Get Started"
-    icon: github
+  - label: "Open posts"
+    icon: key
     url: "https://toseic.github.io/posts/"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/Toseic.github.io"
 ---
