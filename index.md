@@ -3,7 +3,7 @@ layout: home
 paginate: false
 alt_title: "Bug's home"
 sub_title: "bug creater's house"
-image: /assets/images/amine-ounnas-180287.jpg
+image: /assets/images/title.png
 introduction: |
   welcome !
 actions:
