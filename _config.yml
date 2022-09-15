@@ -15,19 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Bug's home
-email: 
+email: tosey@stu.pku.edu.cn
 description: "Bug creater's house"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: Toseic
   twitter:
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/head.jpg
 twitter_username:
 github_username: Toseic
 logo: /assets/icons/basically-basic-logo-light.svg
 search: true # true, false (default)
-search_full_content: true # true, false (default)
+search_full_content: false # true, false (default)
 search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
