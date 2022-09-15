@@ -17,7 +17,7 @@ lang: en-US
 title: Bug's home
 email:
 description: "Bug creater's house"
-baseurl: /posts # the optional subpath of your site, e.g. "/blog"
+baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://toseic.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: Toseic
@@ -44,6 +44,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - number_of_words
 feed:
   path: atom.xml
 
