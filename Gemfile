@@ -4,7 +4,6 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "jekyll-remote-theme"
-gem "number_of_words.rb"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -13,5 +12,4 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem "number_of_words"
 end

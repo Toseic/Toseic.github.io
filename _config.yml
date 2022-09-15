@@ -44,7 +44,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - number_of_words
+  
 feed:
   path: atom.xml
 
