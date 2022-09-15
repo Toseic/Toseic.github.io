@@ -26,9 +26,9 @@ author:
 twitter_username:
 github_username: Toseic
 logo: /assets/icons/basically-basic-logo-light.svg
-search: false # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -60,10 +60,6 @@ exclude:
   - LICENSE
   - Rakefile
   - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
 
 
 # Front Matter Defaults
