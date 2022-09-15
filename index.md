@@ -4,7 +4,6 @@ paginate: true
 alt_title: "Bug's home"
 sub_title: "bug creater's house"
 image: /assets/images/amine-ounnas-180287.jpg
-paginate: true
 introduction: |
   welcome !
 actions:
