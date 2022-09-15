@@ -11,7 +11,7 @@ t:
   search: "Search"
   site_search: "Site Search"
   results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
+  search_placeholder_text: "Enter here..."
   home: "Home"
   newer: "Next"
   older: "last"
