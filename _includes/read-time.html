@@ -1,9 +1,9 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
 
 {% if post.read_time %}
-  {% assign words = post.content | strip_html | number_of_words:"auto" %}
+  {% assign words = post.content | strip_html | number_of_words %}
 {% elsif page.read_time %}
-  {% assign words = page.content | strip_html | number_of_words:"auto" %}
+  {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
 {% if words < words_per_minute %}
