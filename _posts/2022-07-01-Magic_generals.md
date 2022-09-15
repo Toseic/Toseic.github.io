@@ -16,7 +16,7 @@ actions:
 
 
 
-[generals](https://link.zhihu.com/?target=http%3A//generals.io)游戏，又名将军棋，此游戏以调兵遣将作为主要玩点，可以体验多方对抗中的心理博弈以及战术思想。<!--more-->
+[generals](http://generals.io)游戏，又名将军棋，此游戏以调兵遣将作为主要玩点，可以体验多方对抗中的心理博弈以及战术思想。<!--more-->
 
 游戏规则，在x*y(16<=x,y<=23)个方格构成的的地图上，每个地图上面可以是山地，王城，古城，空白的土地。
 
