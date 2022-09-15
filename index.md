@@ -8,7 +8,7 @@ introduction: |
   welcome !
 actions:
   - label: "Open posts"
-    icon: key
+    icon: arrow-right
     url: "https://toseic.github.io/posts/"
   - label: "Github"
     icon: github
