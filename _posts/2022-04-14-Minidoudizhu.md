@@ -9,6 +9,7 @@ actions:
   - label: "Github"
     icon: github
     url: "https://github.com/Toseic/Mini-doudizhu"
+audio_iframe: "//music.163.com/outchain/player?type=2&id=202373&auto=1&height=66"
 ---
 
 ## 迷你斗地主游戏AI实验报告

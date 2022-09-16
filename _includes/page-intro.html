@@ -41,6 +41,11 @@
         Your browser does not support the audio element.
       </audio>
       {% endif %}
+
+      {% if page.audio_iframe %}
+      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+          src="{{ page.audio_iframe }}" ></iframe>
+      {% endif %}
       <!-- diy by toseic -->
     </div>
   </div>
