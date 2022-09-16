@@ -2,7 +2,7 @@
 layout: post
 title: "GB-Mahjong 国标麻将"
 author: "Toseic"
-tags: AI game
+tags: AI game github
 comments: true
 excerpt_separator: <!--more-->
 actions:

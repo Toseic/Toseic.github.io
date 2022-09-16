@@ -2,7 +2,7 @@
 layout: post
 title: "Generals-Chess"
 author: "Toseic"
-tags: game botzone
+tags: game botzone github
 comments: true
 excerpt_separator: <!--more-->
 actions:

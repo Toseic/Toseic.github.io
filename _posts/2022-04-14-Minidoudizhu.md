@@ -2,7 +2,7 @@
 layout: post
 title: "Mini斗地主"
 author: "Toseic"
-tags: game
+tags: game github
 comments: true
 excerpt_separator: <!--more-->
 actions:

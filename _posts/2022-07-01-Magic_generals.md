@@ -2,7 +2,7 @@
 layout: post
 title: "Generals 将军棋"
 author: "Toseic"
-tags: AI game
+tags: AI game github
 comments: true
 excerpt_separator: <!--more-->
 actions:
