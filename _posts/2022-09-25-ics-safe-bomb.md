@@ -6,6 +6,8 @@ tags: ics bomblab trick
 comments: true
 excerpt_separator: <!--more-->
 ---
+
+
 这篇文章参考了： [https://infedg.xyz/index.php/archives/35/](https://infedg.xyz/index.php/archives/35/)
 
 想必大家已经看过了去年的炸弹本地化方法，但是今年并不适用了，所以我们接着研究如何制作本地化的炸弹。
