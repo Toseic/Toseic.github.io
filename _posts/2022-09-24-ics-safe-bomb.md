@@ -5,6 +5,10 @@ author: "Toseic"
 tags: ics bomblab trick
 comments: true
 excerpt_separator: <!--more-->
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/Toseic/ICS_lab/tree/main/bomblab"
 ---
 
 
