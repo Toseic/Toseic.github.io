@@ -69,11 +69,12 @@ actions:
 
 ## 本地化脚本
 同时我也制作一个自动本地化的python脚本，在这里：
+[https://github.com/Toseic/ICS_lab/tree/main/bomblab](https://github.com/Toseic/ICS_lab/tree/main/bomblab)
 
 
 
 ## 结尾
 
 感觉“制作出一个本地炸弹”似乎已经成为了`bomblab`的另一个隐藏关卡，似乎每年都有类似的这种文章hhhhh。
-最后盲猜一手，也许明年的bomb会改成从服务器获取`SECRETTOKEN`(?)
+最后盲猜一手，也许明年的bomb会改成从服务器获取`SECRETTOKEN` (?)
 
