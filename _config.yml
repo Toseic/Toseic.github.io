@@ -64,6 +64,12 @@ exclude:
   - README
 
 
+# Collections
+collections:
+  photography:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
