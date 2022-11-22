@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photography
 title: "摄影作品分享-1"
 author: "Toseic"
 tags: lightning photography

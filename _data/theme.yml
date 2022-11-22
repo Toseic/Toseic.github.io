@@ -51,8 +51,9 @@ google_fonts:
 
 navigation_pages:
   - posts.md
+  - photography.md
   - tags.md
   - about.md
-  - photography.md
+
   
   
