@@ -2,6 +2,10 @@
 title: "秋天的尾巴"
 author: "Toseic"
 tags: autumn photography
+image: 
+  path: https://user-images.githubusercontent.com/97432569/203974952-3a5591a1-9a91-43bc-b580-06af8ca44b67.JPG
+  thumbnail: https://user-images.githubusercontent.com/97432569/203974952-3a5591a1-9a91-43bc-b580-06af8ca44b67.JPG
+#   caption: "Photo from [Pexels](https://www.pexels.com)"
 # actions:
 #   - label: "image"
 #     icon: image

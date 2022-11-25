@@ -1,5 +1,5 @@
 ---
-title: "摄影作品分享-1"
+title: "在中秋节看到闪电"
 author: "Toseic"
 tags: lightning photography
 actions:
