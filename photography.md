@@ -1,5 +1,5 @@
 ---
-title: photography
+title: Photography
 layout: collection
 permalink: /photography/
 collection: photography
